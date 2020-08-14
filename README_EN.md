@@ -37,7 +37,7 @@ Documentation: English version | [中文版](https://github.com/luolongfei/freen
 ### 📃  Why write this script
 As we all know, Freenom is the only merchant on the planet that provides free top-level domain names, but it needs to be renewed every year for up to one year at a time. Since I applied for a bunch of domain names, and not at the same time,
 So I felt frustrated every time I renewed, so I wrote this automatic renewal script.
-
+ 
 ### 🍭  Demo
 ![Email example](https://s2.ax1x.com/2020/01/31/139Rrd.png "Email content")
 
